@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment-4</title>
+</head>
+<body>
+    <h1>Coding Blocks Jr Web Development</h1>
+
+    <h5><a href="#sec2">Link to Section-2</a></h5> 
+    <h5><a href="links.html" target="_blank"> Link to Links.html</a></h5>
+    <h5><a href="links2.html#three" target="_blank">Link to Three of Links2.html</a></h5> 
+    <h5><a href="../Class 5/ordered_lists.html" target="_blank"> Link to Class-5 ordered_lists</a>
+    <h5><a href="../Class 4/ahmad.html#4_sec1" target="_blank">Link to Class-4 Section-1</a></h5>
+    
+    Below we have different scetions. In each section link has been used.
+
+    <section id="sec1">
+    <h2>Section 1</h2>
+
+    This section consist of the links which will direct you to different websites.
+    <br> <br>
+    <a href="https://www.youtube.com/" target="_blank">Youtube</a> <br>
+    <a href="https://codingblocks.com/" target="_blank">Coding Blocks</a> <br>
+    <a href="https://github.com/" target="_blank">Github</a> <br>
+    <a href="https://www.google.com/" target="_blank">Google</a> <br>
+    <a href="https://www.google.com/search?q=Educational+Cartoons" target="_blank">Educational Cartoons</a> <br>
+    </section>
+
+    <br><br><br>
+
+    <section id="sec2">
+    <h2> Section 2</h2>
+
+    This section consist of the links through whichwe can directly call a particular organization.
+    <br> <br>
+    <a href="">Medical Helpline </a>      <br>
+    <a href="">Jio customer care</a>      <br>
+    <a href="">CodingBlocks Helpline</a>  <br>
+    <a href="">COVID-19 Helpline</a>      <br>
+    </section>
+
+    <br><br><br>
+
+    <section id="sec3">
+    <h2>Section 3</h2>
+
+    This section consist of the links through which we can directy mail a particular organization.
+    <br><br>
+    <a href="">CodingBlocks E-mail</a>         <br>
+    <a href="">SBI E-mail</a>                  <br>
+    <a href="">Vidyamandir Classes E-mail</a>  <br>
+    <a href="">COVID-19 E-mail</a>             <br>
+    </section>
+
+    <br><br><br>
+
+    <section id="sec4">
+    <h2>Section 4</h2>
+    
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel error exercitationem nisi. Reprehenderit cupiditate ipsam porro 
+        eligendi corrupti suscipit fuga nihil, delectus eveniet officia neque, fugiat sapiente saepe quod illo!
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima quos illum animi commodi explicabo fuga vero ab
+        itaque sed, totam nobis sit dolor saepe praesentium corporis doloremque harum magni aliquid.
+    </p>
+    </section>
+
+    <br><br><br>
+
+    <section id="sec5">
+    <h2>Section 5</h2>
+    
+    <p>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nemo dolorem esse expedita doloremque in quod qui. 
+        Sed fuga earum, quae veniam quia, porro cumque fugit impedit nulla, vero ut quasi!
+        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam distinctio sequi hic! Reiciendis, 
+        dolore! Saepe sapiente nesciunt mollitia deserunt necessitatibus enim, laboriosam, explicabo harum aperiam sed nulla natus quo esse?
+    </p>
+    </section>
+</body>
+</html>
