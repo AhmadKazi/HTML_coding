@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+
+h1{
+    color: cadetblue;
+}
+
+.tfood{
+    color: magenta;
+}
+
+.one{
+    color: rgb(71, 71, 172);
+}
+
+.two{
+    color: olivedrab;
+}
+
+.p1{
+    color: red;
+}
+
+.p2{
+    color: rgb(20, 173, 148);
+}
+
+.p3{
+    color: rgb(233, 152, 47);
+}
+
+#p4{
+    color: rgb(58, 58, 182);
+}
+
+#ingredients{
+    color:brown
+}
