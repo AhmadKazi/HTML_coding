@@ -1,0 +1,62 @@
+#mainHead{
+    color: whitesmoke;
+    background-color: #EA7773;
+    text-align: center;
+    font-family: Grenze Gotisch;
+    font-size: 50px;
+}
+
+
+
+
+div#Spiderman h1{
+    color: #EA425C;
+}
+
+#Spiderman p{
+    letter-spacing: 5px;
+    text-indent: 3cm;
+}
+
+
+
+
+#Captain h1{
+    color: #487EB0;
+    text-align: right;
+    text-decoration-line: overline;
+}
+
+#Captain p{
+    word-spacing: 15px;
+    line-height: 7mm;
+    text-align: right;
+} 
+
+
+
+
+
+#Ironman h1{
+    color: #EEC213;
+    background-color:#487EB0 ;
+    text-decoration-line: underline;
+    text-align: center;
+}
+
+#Ironman p#p1{
+    text-decoration-line: line-through;
+}
+
+#Ironman #p2{
+    direction: rtl; 
+    unicode-bidi: bidi-override;
+}
+
+
+
+
+
+a{
+    text-decoration: none;
+}
