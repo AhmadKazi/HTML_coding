@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+
+
+
+
+.h11{
+    color: rgb(16, 114, 114);
+    font-size: 50px;
+    text-align: center;
+    text-shadow: -5px 5px 1.5px rgb(231, 199, 92),
+                 -10px 10px 1px rgb(248, 68, 68),
+                 -15px 15px 1px rgb(179, 70, 179);
+}
+
+
+
+.h12{
+    color: olivedrab;
+    font-size: 40px;
+    text-decoration: line-through yellow;
+}
+
+
+
+p{
+    color: teal;
+    font-weight: bold;
+}
+
+span{
+    color: brown;
+    font-size: 20px;
+}
+
+#purple{
+    color: darkmagenta;
+    font-weight: bold;
+}
+
+
+
+#yellow{
+    color: goldenrod;
+    font-weight: normal;
+    font-size: 18px;
+}
