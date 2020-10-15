@@ -1,0 +1,128 @@
+body{
+    background-color: rgb(72, 209, 163);
+    font-family: 'PT Sans';
+}
+
+header{
+    background-color: white;
+    padding: 20px;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+
+
+#port{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+header a{
+    text-decoration: none;
+    color: black;
+    margin-left: 15px;
+    font-size: 15px;
+}
+
+
+
+.intro{
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    min-height: 270px;
+}
+
+.box{
+    float: left;
+}
+
+
+#picture{
+    height: 250px;
+    border: 10px solid gainsboro;
+}
+
+
+#intro1{
+    padding: 50px;
+}
+
+
+#intro1 h1{
+    margin-bottom: 0px;
+}
+
+.name{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.intext{
+    font-size: 15px;
+    margin-top: 3px;
+}
+
+
+.view{
+    color: rgb(67, 194, 151);
+    text-decoration: none;
+    font-size: 12px;
+    border: 1px solid  rgb(67, 194, 151);
+    border-radius: 3px;
+    padding: 5px;
+}
+
+
+.view:hover{
+    background-color: rgb(72, 209, 163);
+    color: white;
+}
+
+
+.about{
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+}
+
+.projects{
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+}
+
+.projects a{
+    text-decoration: none;
+    color: black;
+}
+
+.proj{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.link:hover{
+    color: rgb(67, 194, 151);
+    text-decoration-line: underline;
+}
+
+
+.languages{
+    background-color: white;
+    margin-top: 60px;
+    margin-left: 150px;
+    margin-right: 150px;
+    padding: 20px;
+}
+
+.lan1{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
