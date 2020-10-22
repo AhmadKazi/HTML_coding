@@ -1,0 +1,94 @@
+.div1{
+    margin-left: 80px;
+    margin-right: 80px;
+    min-height: 300px;
+}
+
+.intro{
+    float: left;
+}
+
+.doraimg{
+    height: 300px;
+}
+
+.para{
+    max-width: 900px;
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-left:20px;
+}
+
+.div2{
+    min-height: 350px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.para2{
+    max-width: 900px;
+    text-align: justify;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    padding-right: 20px;
+}
+
+.info{
+    float: left;
+}
+
+.heading2{
+    float: none;
+    text-align: center;
+}
+
+.Ps{
+    text-align: center;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+
+.team{
+    margin-left: 400px;
+    width: 600px;
+}
+
+.paras p:first-child {
+    color: crimson;
+    font-weight: bold;
+}
+
+div.paras p:last-child{
+    color: green;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
+input:valid{
+    background-color: rgb(20, 184, 20);
+}
+
+input:invalid{
+    background-color: red;
+}
+
+input:valid + label::after{
+    content: "Yay! You are correct";
+}
+
+input:invalid + label::after{
+    content: "Oh! You are wrong";
+}
+
+
+.num:in-range + label::after{
+    content: "Hey! You got it right!!!";
+}
+
+.num:out-of-range + label::after{
+    content: "Wrong Guess!"
+}
