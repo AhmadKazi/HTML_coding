@@ -1,0 +1,115 @@
+body{
+    background-color: rgb(213, 212, 214);
+}
+
+
+
+#logo{
+    height: 100px;
+    background-color: rgb(213, 212, 214);
+    margin-left: 1000px;
+}
+
+#heading{
+    font-size: 40px;
+    text-decoration-line: underline;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+
+.labels{
+    font-size: 25px;
+    font-weight: bold;
+    text-align-last: center;
+    margin-left: 400px;
+}
+
+
+.inputs{
+    font-size: 18px;
+    width: 300px;
+}
+
+
+
+#inputs2{
+    font-size: 20px;
+}
+
+#submit{
+    margin-left: 550px;
+    height: 30px;
+    font-size:20px;
+}
+
+
+input:checked{
+    box-shadow: 0 0 0 5px red ;
+}
+
+
+h1:hover{
+    background-color: burlywood;
+    color: indigo;
+}
+
+.divs:hover{
+    background-color: mediumturquoise;
+    color: blue;
+}
+
+
+.inputs:focus{
+    background-color: rgb(45, 236, 19);
+    color: blue;
+}
+
+
+.divs:focus-within{
+    background-color: rgb(238, 238, 70);
+    color: crimson;
+}
+
+/* =========================================== */
+
+.heading2{
+    font-size: 40px;
+    text-align: center;
+}
+
+.para2{
+    font-size: 25px;
+    text-align: center;
+}
+
+#link{
+    font-size: 30px;
+}
+
+.butn{
+    text-align: center;
+}
+
+#button{
+    background-color: yellow;
+    color: red;
+    font-weight: 700;
+    align-content: center;
+    height: 30px;
+}
+
+
+#button:hover{
+    background-color: rgb(35, 212, 35);
+    color: blue;
+    height: 40px;
+    width: 65px;
+    font-weight: 800;
+    border: none;
+}
+
+#button:focus{
+    background-color: green;
+}
+
