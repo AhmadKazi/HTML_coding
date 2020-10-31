@@ -1,0 +1,72 @@
+body{
+    background-color: rgb(221, 213, 213);
+}
+
+#img1{
+    width: 100%;
+    height: 500px;
+    border-bottom: 10px solid green;
+}
+
+#img2{
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    height: 50px;
+    background-color: black;
+    z-index: 5px;
+}
+
+button{
+    font-size: 15px;
+    height: 40px;
+    width: 100px;
+    background-color: deepskyblue;
+    border: none;
+    
+    position: fixed;
+    bottom: 20px;
+    right: 100px;
+}
+
+button:focus{
+    border: none;
+}
+
+
+p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 50px;
+}
+
+.about{
+    background-color: lightcoral;
+    margin: 0px 20px;
+}
+
+.abouth1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(218, 54, 54);
+
+    position: sticky;
+    top: 5px;
+    z-index: 3px;
+}
+
+.info{
+    background-color: lightsalmon;
+    margin: 0px 20px;
+}
+
+.infoh1{
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    background-color: rgb(207, 94, 49);
+
+    position: sticky;
+    top: 10px;
+}
