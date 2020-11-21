@@ -1,0 +1,44 @@
+.mainbox{
+    height: 900px;
+    width: 1200px;
+    background-color: teal;
+    margin: auto;
+    margin-top: 50px;
+    box-shadow: 15px 15px 5px gray;
+    transition-property: background-color transform ;
+    transition-duration: 2000ms;
+    transition-timing-function: ease-in-out;
+}
+
+body:hover .mainbox{
+    background-color: green;
+    transform: translate(-25px,-25px);
+    box-shadow: 5px 5px 5px gray;
+}
+
+.box{
+    height: 150px;
+    width: 1200px;
+    background-color: red;
+    text-align: center;
+    font-size: 20px;
+    left: 0px;
+    top: 0px;
+    position: relative;
+    transition-property: height width backfround-color font-size left top transform;
+    transition-duration: 2500ms;
+    transition-timing-function: ease-in-out;
+}
+
+
+.mainbox:hover .box{
+    height: 150px;
+    width: 150px;
+    background-color: blue;
+    font-size: 20px;
+
+    left: 500px;
+    top: 400px;
+    position: absolute;
+}
+
