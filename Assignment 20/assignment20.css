@@ -1,0 +1,22 @@
+body{
+    background-color: powderblue;
+    font-family: fantasy;
+    font-weight: 200;
+}
+
+h1{
+    color: red;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2{
+    left: 50px;
+    position: relative;
+}
+
+li{
+    font-size: 20px;
+    color: purple;
+    line-height: 30px;
+}
