@@ -6,7 +6,7 @@ alert(`Area of your rectangle = ${area_tri}`);
 
 // ===========================================================================
 
-let breadth = prompt("What is the breadth of your rectangle?");
+let breadth = prompt("What is the breadth of your rectangle?") ;
 let length = prompt("What is the length of your rectangle?");
 let area_rect = (breadth*length);
 let perimeter_rect = 2*(Number(length) + Number(breadth));
