@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(251, 161, 70)
+}
+
+h1{
+    color: purple;
+    background-color: rgb(243, 243, 77);
+    font-size: 60px;
+    text-align: center;
+    box-shadow: 3px 5px 5px 3px gray;
+    margin: 10px 500px;
+}
+
+li{
+    color: forestgreen;
+    font-size: 30px;
+    font-weight: 600
+}
+
+ul{
+    list-style-type: square;
+}
+
