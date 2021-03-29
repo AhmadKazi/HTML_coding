@@ -1,0 +1,118 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: whitesmoke;
+}
+
+#navbar{
+    background-color: teal;
+    font-size: 20px;
+    color: whitesmoke;
+    padding-left: 20px;
+}
+
+.navs{
+    color: whitesmoke;
+    text-decoration: none;
+    padding: 1px 20px;
+}
+
+.navs:hover{
+    background-color: orange;
+    transition-duration: 250ms;
+}
+
+.footer{
+    background-color: rgb(204, 204, 204);
+    padding: 20px;
+}
+
+
+img{
+    border: 10px solid tomato;
+}
+
+#solarimg{
+    border: 15px solid teal;
+    border-radius: 10px;
+}
+
+div{
+    background-color: rgb(214, 214, 214);
+    padding: 10px;
+    margin: 20px;
+}
+
+#heading{
+    font-size: 50px ;
+    color: slateblue;
+    text-align: right;
+    padding-right: 20px;
+}
+
+#heading:hover{
+    background-color: burlywood;
+}
+
+.heading2{
+    background-color: rgb(42, 42, 179);
+    color: darkorange;
+    font-size: 30px;
+    padding: 20px;
+    text-align: center;
+    position: sticky;
+    top: 20px;
+    z-index: 1px;
+}
+
+.pltname{
+    font-size: 20px;
+    color: seagreen;
+    font-weight: bold;
+}
+
+
+input:focus{
+    border: 3px solid blue ;
+    background-color: rgb(186, 204, 238);
+    font-size: 20px;
+    color: black;
+}
+
+input:in-range{
+    background-color: rgb(25, 185, 25);
+    color: whitesmoke;
+}
+
+input:out-of-range{
+    background-color: red;
+    color: whitesmoke;
+}
+
+input:valid{
+    background-color: rgb(25, 185, 25);
+    color: whitesmoke;
+}
+
+input:invalid{
+    background-color: red;
+    color: whitesmoke;
+}
+
+#submit{
+    background-color: white;
+    color: crimson;
+}
+
+#submit:hover{
+    background-color: yellow;
+    color: blue;
+}
+
+
+.pltimg:hover{
+    border: 10px solid dodgerblue;
+    border-radius: 20px;
+    transform: rotate(360deg);
+    transition-duration: 1s;
+    transition-timing-function: ease-in-out;
+}
